@@ -1,0 +1,14 @@
+C:\Users\Csongi\Desktop\.NET\FileExplorerApp\bin\Debug\FileExplorerApp.exe.config
+C:\Users\Csongi\Desktop\.NET\FileExplorerApp\bin\Debug\FileExplorerApp.exe
+C:\Users\Csongi\Desktop\.NET\FileExplorerApp\bin\Debug\FileExplorerApp.pdb
+C:\Users\Csongi\Desktop\.NET\FileExplorerApp\obj\Debug\MainWindow.g.cs
+C:\Users\Csongi\Desktop\.NET\FileExplorerApp\obj\Debug\App.g.cs
+C:\Users\Csongi\Desktop\.NET\FileExplorerApp\obj\Debug\FileExplorerApp_MarkupCompile.cache
+C:\Users\Csongi\Desktop\.NET\FileExplorerApp\obj\Debug\FileExplorerApp_MarkupCompile.lref
+C:\Users\Csongi\Desktop\.NET\FileExplorerApp\obj\Debug\MainWindow.baml
+C:\Users\Csongi\Desktop\.NET\FileExplorerApp\obj\Debug\FileExplorerApp.g.resources
+C:\Users\Csongi\Desktop\.NET\FileExplorerApp\obj\Debug\FileExplorerApp.Properties.Resources.resources
+C:\Users\Csongi\Desktop\.NET\FileExplorerApp\obj\Debug\FileExplorerApp.csproj.GenerateResource.cache
+C:\Users\Csongi\Desktop\.NET\FileExplorerApp\obj\Debug\FileExplorerApp.csproj.CoreCompileInputs.cache
+C:\Users\Csongi\Desktop\.NET\FileExplorerApp\obj\Debug\FileExplorerApp.exe
+C:\Users\Csongi\Desktop\.NET\FileExplorerApp\obj\Debug\FileExplorerApp.pdb
