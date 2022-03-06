@@ -13,7 +13,10 @@
         <ListView ItemsSource="{Binding Users}" Background="White" Foreground="Black">
             <ListView.ItemTemplate>
                 <DataTemplate>
-                    <TextBlock Text="{Binding Name}" FontSize="24" Padding="10" />
+                    <TextBlock FontSize="24" Padding="10">
+                        <Run Text="{Binding Name}"/>
+                        <Run Text="{Binding Age}"/>
+                    </TextBlock>
                 </DataTemplate>
             </ListView.ItemTemplate>
         </ListView>

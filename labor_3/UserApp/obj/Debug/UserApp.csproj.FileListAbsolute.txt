@@ -15,3 +15,4 @@ C:\Users\Csongi\Desktop\.NET\UserApp\obj\Debug\UserApp.csproj.GenerateResource.c
 C:\Users\Csongi\Desktop\.NET\UserApp\obj\Debug\UserApp.csproj.CoreCompileInputs.cache
 C:\Users\Csongi\Desktop\.NET\UserApp\obj\Debug\UserApp.exe
 C:\Users\Csongi\Desktop\.NET\UserApp\obj\Debug\UserApp.pdb
+C:\Users\Csongi\Desktop\.NET\UserApp\obj\Debug\UserApp.csproj.AssemblyReference.cache
